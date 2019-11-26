@@ -3,3 +3,4 @@ Key notes on gathering information
 Code Accademy
 free code camp
 Week - 8 - Blog
+JS
