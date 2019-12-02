@@ -18,3 +18,7 @@ Var x = 5;
 var y = 2;
 var z = x
 
+Week 9
+trying to download postgresql, pgadmin, and restored the dvdrental.tar file
+I am not having any luck. It seems so simple but yet my Linux operating system is not working properly.  The Udemy video tutorial is for a mac. It does quickly brush over other systems but not enough to help me be successful and move on to learning SQL. 
+https://www.udemy.com/share/101WhkCEcecF9SR3w=/
